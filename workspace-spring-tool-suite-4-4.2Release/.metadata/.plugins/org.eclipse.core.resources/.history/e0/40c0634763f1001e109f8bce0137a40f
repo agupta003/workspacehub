@@ -1,0 +1,5 @@
+package com.consumer.enduser;
+
+public class AppConstants {
+
+}

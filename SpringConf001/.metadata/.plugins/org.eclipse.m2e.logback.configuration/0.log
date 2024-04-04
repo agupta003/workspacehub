@@ -1,0 +1,646 @@
+2024-02-29 10:23:41,613 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 10:45:37,509 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 10:45:39,363 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 10:45:39,364 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 10:45:39,368 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 10:45:39,374 [Worker-26: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 10:45:41,158 [Worker-26: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-02-29 10:45:42,133 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 10:45:42,147 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 10:45:42,149 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 10:47:29,879 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 10:47:29,880 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 10:47:29,881 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 10:54:51,926 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 10:54:51,928 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 10:54:51,938 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 10:54:53,038 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 10:54:53,041 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 10:54:53,056 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 10:55:13,603 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 10:55:13,606 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 10:55:13,617 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 10:56:11,311 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 10:56:11,311 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 10:56:11,314 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:00:15,647 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:00:15,648 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:00:15,650 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:00:48,320 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:00:48,321 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:00:48,324 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:15:20,157 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 11:15:22,074 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:15:22,074 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:15:22,077 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:15:22,079 [Worker-44: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 11:15:22,080 [Worker-44: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 11:15:40,544 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 11:15:40,881 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 11:15:41,460 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 11:15:41,461 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 11:15:41,461 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 11:15:41,462 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 11:15:42,732 [Worker-22: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 11:15:42,817 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2024-02-29 11:15:43,373 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:15:43,388 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:15:43,393 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:15:43,393 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 11:15:43,393 [Worker-43: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 11:15:43,638 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:15:43,638 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:15:43,641 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:16:37,641 [Worker-50: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\t\n\t\t<dependency>... @34:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\t\n\t\t<dependency>... @34:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2024-02-29 11:16:38,775 [Worker-43: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:853)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:389)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:410)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\t\n\t\t<dependency>... @34:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...</dependencies>\n\t\n\t\t<dependency>... @34:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2024-02-29 11:17:00,092 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 11:17:00,484 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:17:00,484 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:17:00,486 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:17:00,486 [Worker-49: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 11:17:00,486 [Worker-49: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 11:17:01,703 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:17:01,714 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:17:01,716 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:20:45,721 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 11:20:46,092 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:20:46,093 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:20:46,094 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:20:46,094 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 11:20:46,094 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 11:25:15,274 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 11:25:15,600 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:25:15,600 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:25:15,601 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:25:15,602 [Worker-41: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 11:25:15,602 [Worker-41: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 11:25:25,715 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 11:25:26,013 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:25:26,013 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:25:26,015 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:25:26,015 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 11:25:26,015 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 11:47:44,768 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:47:44,784 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:47:44,788 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:49:09,098 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:49:09,100 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:49:09,102 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 11:50:31,423 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 11:50:31,423 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 11:50:31,425 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:04:50,989 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-29 12:05:01,316 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:05:01,336 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:05:01,342 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:07:35,539 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 12:07:39,994 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:07:40,030 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:07:40,037 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:13:34,040 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 12:13:37,056 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:13:37,066 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:13:37,069 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:14:29,809 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 12:14:32,862 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:14:32,879 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:14:32,884 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:15:44,949 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 12:15:44,949 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 12:15:44,950 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:27:09,337 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 12:27:12,325 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:27:12,332 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:27:12,336 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:28:35,425 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 12:28:38,428 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:28:38,439 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 12:28:38,441 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 12:28:58,506 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-02-29 12:29:45,960 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-02-29 12:32:46,274 [Worker-22: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 12:32:46,276 [Worker-22: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 13:19:32,597 [Worker-44: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 13:19:32,597 [Worker-44: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 13:19:37,920 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 13:19:37,939 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 13:19:37,943 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:26:45,828 [Worker-49: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 13:26:45,828 [Worker-49: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 13:32:41,317 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:32:41,318 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:32:41,319 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:35:32,790 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:35:32,790 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:35:32,791 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:36:14,105 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:36:14,105 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:36:14,106 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:52:47,260 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 13:53:48,364 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 13:53:48,371 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 13:53:48,375 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:53:49,664 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:53:49,664 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:53:49,665 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:55:54,713 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:54,713 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:54,714 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:55:55,777 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:55,778 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:55,779 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:55:56,860 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:56,860 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:56,862 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:55:57,875 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:57,875 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:55:57,876 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:56:14,612 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:56:14,613 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:56:14,614 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:56:15,685 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:56:15,685 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:56:15,688 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:57:44,851 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:57:44,851 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:57:44,852 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 13:57:56,887 [Worker-22: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 13:57:56,888 [Worker-22: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 13:57:59,458 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:57:59,458 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 13:57:59,459 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:06:43,369 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:06:43,370 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:06:43,372 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:07:28,362 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:07:28,362 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:07:28,363 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:09:59,015 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:09:59,015 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:09:59,016 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:12:35,557 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 14:12:35,946 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 14:12:36,683 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 14:12:36,683 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 14:12:36,683 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 14:12:36,685 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 14:12:37,186 [Worker-22: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 14:12:37,189 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-02-29 14:12:37,457 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 14:12:37,473 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 14:12:37,477 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:12:37,478 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 14:12:37,478 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 14:12:45,940 [Worker-29: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 14:12:45,941 [Worker-29: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 14:12:52,520 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 14:12:52,525 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 14:12:52,527 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:24:49,559 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:24:49,560 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:24:49,561 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:25:43,764 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:25:43,765 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:25:43,766 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:28:39,504 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:28:39,504 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:28:39,505 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:30:51,132 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:30:51,132 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:30:51,133 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:31:19,584 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:31:19,584 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:31:19,585 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:36:28,193 [Worker-46: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 14:36:28,195 [Worker-46: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 14:36:35,470 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:36:35,471 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:36:35,472 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:46:34,080 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:46:34,080 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:46:34,082 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:47:46,239 [Worker-51: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 14:47:46,239 [Worker-51: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 14:47:49,485 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:47:49,485 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:47:49,486 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:48:41,837 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:48:41,838 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:48:41,839 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 14:48:57,068 [Worker-49: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 14:48:57,068 [Worker-49: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 14:49:31,705 [Worker-51: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 14:49:31,706 [Worker-51: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 14:49:34,964 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:49:34,965 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 14:49:34,967 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:01:13,279 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 15:02:49,181 [Worker-12: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:02:49,185 [Worker-12: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 15:03:02,094 [Worker-5: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:03:02,094 [Worker-5: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:03:05,068 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:03:05,087 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:03:05,094 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:03:05,101 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:03:05,101 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:03:12,342 [Worker-10: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:03:12,342 [Worker-10: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:03:14,843 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:03:14,843 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:03:14,845 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:12:01,043 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:12:01,044 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:12:01,045 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:12:26,110 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:12:26,110 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:12:26,112 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:12:53,573 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 15:12:55,734 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 15:12:58,317 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 15:12:58,317 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:12:58,318 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:12:58,318 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 15:12:58,871 [Worker-12: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 15:12:58,874 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2024-02-29 15:12:59,343 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:12:59,355 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:12:59,359 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:12:59,360 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:12:59,360 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:13:04,719 [Worker-17: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:13:04,719 [Worker-17: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 15:13:17,302 [Worker-23: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:13:17,302 [Worker-23: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:13:42,419 [Worker-12: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:13:42,419 [Worker-12: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:14:29,661 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:14:29,662 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:14:29,664 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:14:38,052 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:14:38,052 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:14:38,054 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:14:49,292 [Worker-21: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:14:49,292 [Worker-21: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:14:50,673 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:14:50,676 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:14:50,678 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:14:50,678 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:14:50,679 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:14:58,119 [Worker-12: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:14:58,119 [Worker-12: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:14:59,928 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:14:59,929 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:14:59,930 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:16:09,655 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 15:17:01,588 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:17:01,589 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:17:01,590 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:17:02,425 [Worker-17: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:17:02,430 [Worker-17: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:17:02,433 [Worker-17: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:17:03,609 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:17:03,609 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:17:03,610 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:17:04,279 [Worker-22: Updating maven projects ] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 15:17:04,516 [Worker-22: Updating maven projects ] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 15:17:04,983 [Worker-22: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 15:17:04,984 [Worker-22: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:17:04,984 [Worker-22: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:17:04,984 [Worker-22: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 15:17:05,293 [Worker-22: Updating maven projects ] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 15:17:05,296 [Worker-22: Updating maven projects ] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-02-29 15:17:05,949 [Worker-24: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:17:05,959 [Worker-24: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:17:05,962 [Worker-24: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:17:05,963 [Worker-24: Building Project SpringConf] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:17:05,963 [Worker-24: Building Project SpringConf] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:17:43,809 [Worker-25: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:17:43,809 [Worker-25: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 15:17:52,727 [Worker-17: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:17:52,727 [Worker-17: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:18:34,045 [Worker-17: Launching Executing generate-sources in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:18:34,045 [Worker-17: Launching Executing generate-sources in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2024-02-29 15:18:42,222 [Worker-17: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:18:42,222 [Worker-17: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:19:12,909 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 15:19:20,724 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:19:20,753 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:19:20,758 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:22:23,183 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:22:23,183 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:22:23,185 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:24:20,205 [Worker-11: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:24:20,208 [Worker-11: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:24:22,000 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:24:22,001 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:24:22,002 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:24:34,515 [Worker-11: Launching SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:24:34,515 [Worker-11: Launching SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2024-02-29 15:25:55,660 [Worker-11: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 15:25:55,794 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:25:55,802 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:25:55,806 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:25:55,806 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:25:55,807 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:26:06,368 [Worker-23: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:26:06,368 [Worker-23: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:26:07,642 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:26:07,643 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:26:07,645 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:26:07,645 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:26:07,645 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:26:15,584 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-02-29 15:26:27,150 [Worker-8: Launching SpringConf (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:26:27,150 [Worker-8: Launching SpringConf (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2024-02-29 15:26:41,788 [Worker-11: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:26:41,789 [Worker-11: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:26:43,444 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:26:43,444 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:26:43,446 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:27:38,389 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:27:38,390 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:27:38,393 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:27:54,819 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 15:29:51,039 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:29:51,039 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:29:51,040 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:32:22,198 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:32:22,198 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:32:22,199 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:32:25,210 [Worker-30: Updating maven projects ] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 15:32:25,551 [Worker-30: Updating maven projects ] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 15:32:26,274 [Worker-30: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 15:32:26,274 [Worker-30: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:32:26,274 [Worker-30: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:32:26,275 [Worker-30: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 15:32:26,588 [Worker-30: Updating maven projects ] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 15:32:26,592 [Worker-30: Updating maven projects ] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-02-29 15:32:26,945 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:32:26,971 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:32:26,977 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:32:26,978 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:32:26,978 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:32:35,118 [Worker-31: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:32:35,118 [Worker-31: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:33:19,827 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:33:19,828 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:33:19,829 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:33:52,824 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:33:52,824 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:33:52,825 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:34:07,524 [Worker-30: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:34:07,533 [Worker-30: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:34:07,536 [Worker-30: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:34:17,241 [Worker-32: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:34:17,241 [Worker-32: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:34:19,018 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:34:19,019 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:34:19,019 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:34:28,765 [Worker-34: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:34:28,765 [Worker-34: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 15:35:11,068 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:35:11,068 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:35:11,069 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:35:22,418 [Worker-30: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:35:22,418 [Worker-30: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:35:24,090 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:35:24,090 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:35:24,091 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:35:49,334 [Worker-31: Launching SpringConf (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:35:49,335 [Worker-31: Launching SpringConf (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2024-02-29 15:36:03,718 [Worker-34: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:36:03,718 [Worker-34: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:36:05,459 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:36:05,460 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:36:05,460 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:36:20,922 [Worker-32: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:36:20,922 [Worker-32: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:36:22,193 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:36:22,199 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:36:22,201 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:36:22,202 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:36:22,202 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:36:27,298 [Worker-34: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:36:27,298 [Worker-34: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:36:28,997 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:36:28,997 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:36:28,998 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:38:28,020 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:38:28,020 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:38:28,021 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:38:59,099 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 15:38:59,315 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 15:38:59,716 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 15:38:59,717 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:38:59,717 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 15:38:59,717 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 15:38:59,981 [Worker-33: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 15:38:59,984 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-02-29 15:39:00,666 [Worker-37: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:39:00,678 [Worker-37: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:39:00,682 [Worker-37: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:39:00,682 [Worker-37: Building Project SpringConf] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:39:00,682 [Worker-37: Building Project SpringConf] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:39:04,489 [Worker-36: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:39:04,489 [Worker-36: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:39:15,611 [Worker-37: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:39:15,611 [Worker-37: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:40:06,079 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 15:42:11,872 [Worker-1: Rebuilding] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:42:11,897 [Worker-1: Rebuilding] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:42:11,904 [Worker-1: Rebuilding] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:42:49,646 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:42:49,646 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:42:49,648 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:43:15,951 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:43:15,951 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:43:15,953 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:44:03,509 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:44:03,510 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:44:03,511 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:45:01,614 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 15:45:33,248 [Worker-15: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:45:33,267 [Worker-15: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:45:33,269 [Worker-15: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:45:34,373 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:45:34,373 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:45:34,374 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:46:15,814 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:46:15,814 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:46:15,817 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:46:32,041 [Worker-15: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:46:32,042 [Worker-15: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:46:33,361 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:46:33,367 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:46:33,371 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:46:33,371 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:46:33,372 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:49:28,030 [Worker-6: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:49:28,031 [Worker-6: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:49:29,823 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:49:29,823 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:49:29,824 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:55:51,857 [Worker-29: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:55:51,875 [Worker-29: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:55:51,879 [Worker-29: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:57:20,895 [Worker-30: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:57:20,895 [Worker-30: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 15:57:22,300 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:57:22,301 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:57:22,303 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:57:22,304 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 15:57:22,304 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 15:58:31,522 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:58:31,522 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:58:31,523 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 15:59:19,702 [Worker-31: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 15:59:19,703 [Worker-31: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 15:59:21,432 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:59:21,432 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:59:21,433 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:02:10,885 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 16:03:52,448 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:03:52,468 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:03:52,472 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:04:02,532 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:04:02,532 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:04:02,533 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:04:40,226 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:04:40,227 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:04:40,228 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:04:45,843 [Worker-4: Updating maven projects ] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 16:04:46,293 [Worker-4: Updating maven projects ] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 16:04:46,933 [Worker-4: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 16:04:46,934 [Worker-4: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:04:46,934 [Worker-4: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:04:46,935 [Worker-4: Updating maven projects ] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 16:04:47,375 [Worker-4: Updating maven projects ] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 16:04:47,380 [Worker-4: Updating maven projects ] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-02-29 16:04:48,100 [Worker-18: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:04:48,115 [Worker-18: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:04:48,118 [Worker-18: Building Project SpringConf] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:04:48,119 [Worker-18: Building Project SpringConf] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 16:04:48,119 [Worker-18: Building Project SpringConf] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 16:05:00,928 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 16:05:01,184 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 16:05:01,692 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 16:05:01,692 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:05:01,692 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:05:01,693 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 16:05:01,849 [Worker-15: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 16:05:01,853 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-02-29 16:05:02,194 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:05:02,206 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:05:02,209 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:05:02,209 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 16:05:02,210 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 16:05:11,040 [Worker-2: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 16:05:11,041 [Worker-2: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install
+2024-02-29 16:06:11,189 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 16:06:11,546 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 16:06:11,546 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:06:11,546 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:06:11,546 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 16:06:11,714 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-02-29 16:06:12,088 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:06:12,100 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:06:12,102 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:06:25,169 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 16:06:25,390 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinks:SpringConf:0.0.1-SNAPSHOT @ C:\dev\workspacehub\SpringConf001\SpringConf\pom.xml.
+2024-02-29 16:06:25,815 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/main/java
+2024-02-29 16:06:25,815 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:06:25,815 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringConf/src/main/resources
+2024-02-29 16:06:25,815 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringConf/src/test/java
+2024-02-29 16:06:25,968 [Worker-18: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringConf
+2024-02-29 16:06:25,971 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-02-29 16:06:26,285 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:06:26,299 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:06:26,302 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\dev\workspacehub\SpringConf001\SpringConf\src\test\resources
+2024-02-29 16:06:26,302 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringConf
+2024-02-29 16:06:26,303 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringConf
+2024-02-29 16:06:34,839 [Worker-5: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 16:06:34,839 [Worker-5: Launching Executing install in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-02-29 16:06:47,225 [Worker-9: Launching SpringConf (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 16:06:47,225 [Worker-9: Launching SpringConf (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2024-02-29 16:07:12,428 [Worker-13: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 16:07:12,428 [Worker-13: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 16:07:25,470 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-29 16:07:31,581 [Worker-10: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 16:07:31,583 [Worker-10: Launching Executing clean in C__dev_workspacehub_SpringConf001_SpringConf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-02-29 16:07:51,138 [Worker-7: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\workspacehub\SpringConf001\SpringConf
+2024-02-29 16:07:51,139 [Worker-7: Launching SpringConf_Mvn] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pauto-deploy -B install

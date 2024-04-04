@@ -1,0 +1,17 @@
+package com.deliveryboy.service;
+
+import org.springframework.kafka.core.KafkaTemplate;
+import org.springframework.stereotype.Service;
+
+@Service
+public class KafkaService {
+
+	private KafkaTemplate<String, String> kafkaTemplate;
+	
+	public boolean updateLocation(String location) {
+		
+		this.kafkaTemplate.send(null)
+		return false;
+		
+	}
+}

@@ -1,0 +1,7 @@
+package com.consumer.enduser;
+
+public class AppConstants {
+
+	public static String LOCATION_UPDFATE_TOPIC = "Location-update-topic";
+	public static String GROUP_ID = "group-1"
+}

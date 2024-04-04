@@ -1,0 +1,15 @@
+package com.consumer.enduser;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.kafka.annotation.KafkaListener;
+
+import com.consumer.enduser.AppConstants;
+
+@Configuration
+public class KafkaConfig {
+
+	@KafkaListener(topics = AppConstants.LOCATION_UPDFATE_TOPIC, groupId=AppConstants.GROUP_ID)
+	public void updateLocation(String value) {
+		
+	}
+}
