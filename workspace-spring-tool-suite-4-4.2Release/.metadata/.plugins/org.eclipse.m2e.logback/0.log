@@ -7762,3 +7762,141 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 2024-04-03 00:04:36,388 [Worker-357: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
 2024-04-04 02:06:07,633 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-04-04 02:06:54,164 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.test:BootJPAExample:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\BootJPAExample\pom.xml.
+2024-04-04 02:07:10,312 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:07:10,926 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:07:10,943 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\BootJPAExample\src\test\resources
+2024-04-04 02:07:11,223 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:07:13,933 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.test:BootJPAExample:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\BootJPAExample\pom.xml.
+2024-04-04 02:07:16,786 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootJPAExample/src/main/java
+2024-04-04 02:07:16,787 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootJPAExample/src/main/resources
+2024-04-04 02:07:16,788 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootJPAExample/src/main/resources
+2024-04-04 02:07:16,790 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootJPAExample/src/test/java
+2024-04-04 02:07:16,791 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootJPAExample/src/test/resources
+2024-04-04 02:07:19,968 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 3.00 sec 
+2024-04-04 02:07:19,987 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:07:21,093 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.test:BootJPAExample:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\BootJPAExample\pom.xml.
+2024-04-04 02:07:23,988 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootJPAExample/src/main/java
+2024-04-04 02:07:23,988 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootJPAExample/src/main/resources
+2024-04-04 02:07:23,989 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootJPAExample/src/main/resources
+2024-04-04 02:07:23,989 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootJPAExample/src/test/java
+2024-04-04 02:07:23,990 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootJPAExample/src/test/resources
+2024-04-04 02:07:26,622 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 1.00 sec 
+2024-04-04 02:07:29,755 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:07:29,848 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:07:29,866 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\BootJPAExample\src\test\resources
+2024-04-04 02:07:30,059 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApi\pom.xml.
+2024-04-04 02:07:31,581 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\Deliveryboy\pom.xml.
+2024-04-04 02:07:37,237 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:07:37,279 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:07:37,290 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-04-04 02:07:40,054 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\Deliverybuddy\pom.xml.
+2024-04-04 02:07:42,557 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:07:42,598 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:07:42,610 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-04-04 02:07:42,724 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:07:44,662 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\Deliverybuddy\pom.xml.
+2024-04-04 02:07:46,323 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Deliverybuddy/src/main/java
+2024-04-04 02:07:46,323 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deliverybuddy/src/main/resources
+2024-04-04 02:07:46,324 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deliverybuddy/src/main/resources
+2024-04-04 02:07:46,325 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Deliverybuddy/src/test/java
+2024-04-04 02:07:46,325 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deliverybuddy/src/test/resources
+2024-04-04 02:07:47,699 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 1.00 sec 
+2024-04-04 02:07:47,713 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:07:48,881 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\Deliverybuddy\pom.xml.
+2024-04-04 02:07:50,537 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Deliverybuddy/src/main/java
+2024-04-04 02:07:50,537 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deliverybuddy/src/main/resources
+2024-04-04 02:07:50,538 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deliverybuddy/src/main/resources
+2024-04-04 02:07:50,539 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Deliverybuddy/src/test/java
+2024-04-04 02:07:50,540 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Deliverybuddy/src/test/resources
+2024-04-04 02:07:51,676 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2024-04-04 02:07:54,509 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:07:54,556 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:07:54,567 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-04-04 02:07:56,486 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApi\pom.xml.
+2024-04-04 02:07:58,003 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:07:58,041 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:07:58,053 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-04-04 02:07:58,141 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:07:59,044 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApi\pom.xml.
+2024-04-04 02:08:00,436 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestApi/src/main/java
+2024-04-04 02:08:00,437 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApi/src/main/resources
+2024-04-04 02:08:00,437 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApi/src/main/resources
+2024-04-04 02:08:00,438 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestApi/src/test/java
+2024-04-04 02:08:00,439 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApi/src/test/resources
+2024-04-04 02:08:01,694 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2024-04-04 02:08:01,710 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:08:03,225 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApi\pom.xml.
+2024-04-04 02:08:05,143 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestApi/src/main/java
+2024-04-04 02:08:05,144 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApi/src/main/resources
+2024-04-04 02:08:05,144 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApi/src/main/resources
+2024-04-04 02:08:05,145 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestApi/src/test/java
+2024-04-04 02:08:05,145 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApi/src/test/resources
+2024-04-04 02:08:06,120 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2024-04-04 02:08:08,072 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:08:08,104 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:08:08,123 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-04-04 02:08:09,595 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApiCRUD\pom.xml.
+2024-04-04 02:08:11,760 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:08:11,797 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:08:11,807 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApiCRUD\src\test\resources
+2024-04-04 02:08:15,597 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:08:17,101 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApiCRUD\pom.xml.
+2024-04-04 02:08:18,792 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestApiCRUD/src/main/java
+2024-04-04 02:08:18,792 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApiCRUD/src/main/resources
+2024-04-04 02:08:18,793 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApiCRUD/src/main/resources
+2024-04-04 02:08:18,794 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestApiCRUD/src/test/java
+2024-04-04 02:08:18,794 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRestApiCRUD/src/test/resources
+2024-04-04 02:08:20,161 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 1.00 sec 
+2024-04-04 02:08:22,347 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:08:22,381 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:08:22,389 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApiCRUD\src\test\resources
+2024-04-04 02:08:23,514 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.enduser:enduser:0.0.1-SNAPSHOT @ C:\Users\visio\dev\Kafka-workspace\enduser\pom.xml.
+2024-04-04 02:08:36,291 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:08:36,347 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:08:36,357 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\Kafka-workspace\enduser\src\test\resources
+2024-04-04 02:08:36,463 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:08:37,277 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.enduser:enduser:0.0.1-SNAPSHOT @ C:\Users\visio\dev\Kafka-workspace\enduser\pom.xml.
+2024-04-04 02:08:39,704 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enduser/src/main/java
+2024-04-04 02:08:39,704 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /enduser/src/main/resources
+2024-04-04 02:08:39,705 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /enduser/src/main/resources
+2024-04-04 02:08:39,706 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enduser/src/test/java
+2024-04-04 02:08:39,706 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /enduser/src/test/resources
+2024-04-04 02:08:41,818 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 2.00 sec 
+2024-04-04 02:08:44,799 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:08:44,846 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:08:44,856 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\Kafka-workspace\enduser\src\test\resources
+2024-04-04 02:08:45,161 [Worker-18: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApi\pom.xml.
+2024-04-04 02:08:55,512 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.main.java:smvc:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\smvc\pom.xml.
+2024-04-04 02:08:59,631 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-04 02:08:59,634 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:08:59,641 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-04 02:08:59,643 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-04-04 02:08:59,807 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-04 02:09:00,804 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.main.java:smvc:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\smvc\pom.xml.
+2024-04-04 02:09:02,459 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /smvc/src/main/java
+2024-04-04 02:09:02,460 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /smvc/src/main/resources
+2024-04-04 02:09:02,461 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /smvc/src/test/java
+2024-04-04 02:09:02,461 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /smvc/src/test/resources
+2024-04-04 02:09:05,689 [Worker-4: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for smvc
+2024-04-04 02:09:05,728 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 3.00 sec 
+2024-04-04 02:09:07,453 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-04 02:09:07,456 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:09:07,460 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-04 02:09:07,463 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-04-04 02:09:07,464 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of smvc
+2024-04-04 02:09:07,466 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for smvc
+2024-04-04 02:09:11,550 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApi\pom.xml.
+2024-04-04 02:09:12,539 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\SpringRestApiCRUD\pom.xml.
+2024-04-04 02:09:14,207 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.main.java:smvc:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\smvc\pom.xml.
+2024-04-04 02:09:14,616 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.enduser:enduser:0.0.1-SNAPSHOT @ C:\Users\visio\dev\Kafka-workspace\enduser\pom.xml.
+2024-04-04 02:09:16,190 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\Deliverybuddy\pom.xml.
+2024-04-04 02:09:16,640 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.test:BootJPAExample:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\BootJPAExample\pom.xml.
+2024-04-04 02:09:16,967 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.rest.api:SpringRestApi:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\Deliveryboy\pom.xml.
+2024-04-04 02:11:12,955 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.enduser:enduser:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\enduser2\pom.xml.
+2024-04-04 02:11:14,046 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:11:14,064 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:11:14,069 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\enduser2\src\test\resources
+2024-04-04 02:18:06,935 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.enduser:enduser:0.0.1-SNAPSHOT @ C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\DeliveryBoyEnduser\pom.xml.
+2024-04-04 02:18:07,771 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-04 02:18:07,786 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-04 02:18:07,790 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\visio\dev\workspacehub\workspace-spring-tool-suite-4-4.2Release\DeliveryBoyEnduser\src\test\resources
